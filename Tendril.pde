@@ -12,7 +12,10 @@ class Tendril
    */
   public Tendril(int len, double theta, int x, int y)
   {
-    //your code here
+    this.len = len;
+    this.theta = theta;
+    this.x = x;
+    this.y = y;
   }
   public void show()
   {
