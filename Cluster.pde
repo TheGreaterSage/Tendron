@@ -4,6 +4,7 @@ public class Cluster
 
     public Cluster(int len, int x, int y)
     {
-        // your code here
+        Tendril t = new Tendril(NUM_STEMS)
     }
 }
+
